@@ -1,0 +1,12 @@
+C:\Users\mwarkentin\Documents\Visual Studio 2015\Projects\SPOT_Monitoring\SPOT_Monitoring\bin\Release\SPOT_Monitoring.exe.config
+C:\Users\mwarkentin\Documents\Visual Studio 2015\Projects\SPOT_Monitoring\SPOT_Monitoring\bin\Release\SPOT_Monitoring.exe
+C:\Users\mwarkentin\Documents\Visual Studio 2015\Projects\SPOT_Monitoring\SPOT_Monitoring\bin\Release\SPOT_Monitoring.pdb
+C:\Users\mwarkentin\Documents\Visual Studio 2015\Projects\SPOT_Monitoring\SPOT_Monitoring\obj\Release\SPOT_Monitoring.exe
+C:\Users\mwarkentin\Documents\Visual Studio 2015\Projects\SPOT_Monitoring\SPOT_Monitoring\obj\Release\SPOT_Monitoring.pdb
+C:\Users\mwarkentin\Documents\Visual Studio 2015\Projects\SPOT_Monitoring\SPOT_Monitoring\obj\Release\SPOT_Monitoring.csprojResolveAssemblyReference.cache
+C:\Users\mwarkentin\Documents\Visual Studio 2015\Projects\01 SPOT\SPOT_Monitoring\SPOT_Monitoring\bin\Release\SPOT_Monitoring.exe.config
+C:\Users\mwarkentin\Documents\Visual Studio 2015\Projects\01 SPOT\SPOT_Monitoring\SPOT_Monitoring\obj\Release\SPOT_Monitoring.exe
+C:\Users\mwarkentin\Documents\Visual Studio 2015\Projects\01 SPOT\SPOT_Monitoring\SPOT_Monitoring\obj\Release\SPOT_Monitoring.pdb
+C:\Users\mwarkentin\Documents\Visual Studio 2015\Projects\01 SPOT\SPOT_Monitoring\SPOT_Monitoring\bin\Release\SPOT_Monitoring.exe
+C:\Users\mwarkentin\Documents\Visual Studio 2015\Projects\01 SPOT\SPOT_Monitoring\SPOT_Monitoring\bin\Release\SPOT_Monitoring.pdb
+C:\Users\mwarkentin\Documents\Visual Studio 2015\Projects\01 SPOT\SPOT_Monitoring\SPOT_Monitoring\obj\Release\SPOT_Monitoring.csprojResolveAssemblyReference.cache
